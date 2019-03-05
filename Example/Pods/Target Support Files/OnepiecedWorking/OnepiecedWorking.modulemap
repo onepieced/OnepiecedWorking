@@ -1,0 +1,6 @@
+framework module OnepiecedWorking {
+  umbrella header "OnepiecedWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -11,6 +11,7 @@
 #endif
 
 #import "onepieceQT.h"
+#import "twoQT.h"
 
 FOUNDATION_EXPORT double OnepiecedWorkingVersionNumber;
 FOUNDATION_EXPORT const unsigned char OnepiecedWorkingVersionString[];
